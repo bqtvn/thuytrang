@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
 :root {
-	--pink-color: #c7a276;
+	--pink-color: #efdd53;
 }
 
 * {
@@ -13,7 +13,7 @@
 
 #container  {
 	height: 100vh;
-	background: linear-gradient(45deg, #00853e, #50c878);
+	background: linear-gradient(45deg, #77f5ea, #5486f1);
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -27,7 +27,6 @@
 	height: 400px;
 	border-radius: 10px;
 	text-align: center;
-	background-color: #242628;
 	margin: 0 30px;
 }
 
